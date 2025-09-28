@@ -1,0 +1,25 @@
+body {
+      font-family: "Georgia", serif;
+      background-color: #fff9db;
+      color: #a12c32;
+      margin: 0;
+      padding: 20px;
+    }
+
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+a {
+    color: #c54444;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 12px;
+    border: 1px solid #c54444;
+}
+
+a:hover {
+    background-color: #c54444;
+    color: #fff9db;
+}
